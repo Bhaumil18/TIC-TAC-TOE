@@ -76,6 +76,7 @@ function bot() {
     {
         document.querySelector(".won-text").innerHTML = `<span>Ohh No ...!</span>  <span>Game Draw.</span>`;
         playboard.classList.remove("show");
+        result.classList.add("show");
     }
     allBox[rnd].style.pointerEvents = "none";
     playboard.style.pointerEvents = "auto";
