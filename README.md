@@ -1,7 +1,7 @@
 
 # TIC TAC TOE Game
 
-This project is a Tic Tac Toe game implemented using HTML, CSS, and JavaScript. It allows two players to play the game on a web page. The game starts with a select box where players can choose to play as either "X" or "O." Once the selection is made, the game board is displayed.
+This project is a Tic Tac Toe game implemented using HTML, CSS, and JavaScript. It allows one players to play the game on a web page. The game starts with a select box where players can choose to play as either "X" or "O." Once the selection is made, the game board is displayed.
 
 The game board consists of a 3x3 grid where players can take turns marking their chosen symbol in an empty cell. The current player's turn is indicated at the top of the board. The players can click on any empty cell to place their symbol. The game also includes a simple AI opponent (called "Jarvis") that randomly selects an empty cell to make its move.
 
